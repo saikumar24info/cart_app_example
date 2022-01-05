@@ -22,7 +22,7 @@ class _CartScreenState extends State<CartScreen> {
       ),
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Cart Items'),
+          title: Text('Cart Items List:'),
           actions: [
             IconButton(
                 onPressed: () {
